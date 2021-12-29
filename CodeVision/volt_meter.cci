@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:539D142A
+NODE:I LEVEL:0 LINE:24 "D:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "D:\cvavr\inc\stdlib.h"
+NODE:I LEVEL:0 LINE:26 "D:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:27 "D:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:28 "D:\cvavr\inc\alcd.h"
+NODE:M LEVEL:0 LINE:30 "ADCChannel"
+NODE:F LEVEL:0 LINE:32 "ADCInit(void)"
+NODE:F LEVEL:0 LINE:37 "readADC(void)"
+NODE:F LEVEL:0 LINE:43 "readVoltage(void)"
+NODE:F LEVEL:0 LINE:49 "main(void)"
